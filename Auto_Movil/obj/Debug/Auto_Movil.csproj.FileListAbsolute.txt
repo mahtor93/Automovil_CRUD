@@ -1,0 +1,6 @@
+C:\Users\Metatron\Desktop\Proyectos VS\Automovil\Auto_Movil\bin\Debug\Auto_Movil.dll
+C:\Users\Metatron\Desktop\Proyectos VS\Automovil\Auto_Movil\bin\Debug\Auto_Movil.pdb
+C:\Users\Metatron\Desktop\Proyectos VS\Automovil\Auto_Movil\obj\Debug\Auto_Movil.csproj.AssemblyReference.cache
+C:\Users\Metatron\Desktop\Proyectos VS\Automovil\Auto_Movil\obj\Debug\Auto_Movil.csproj.CoreCompileInputs.cache
+C:\Users\Metatron\Desktop\Proyectos VS\Automovil\Auto_Movil\obj\Debug\Auto_Movil.dll
+C:\Users\Metatron\Desktop\Proyectos VS\Automovil\Auto_Movil\obj\Debug\Auto_Movil.pdb

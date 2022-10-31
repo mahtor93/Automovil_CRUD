@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfazAutomovil", "InterfazAutomovil\InterfazAutomovil.csproj", "{D3E28A93-9FD0-4915-A2CE-EB3F211C17E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto_Movil", "Auto_Movil\Auto_Movil.csproj", "{D99C752E-BDE0-44B7-9B62-F987053EC4A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3E28A93-9FD0-4915-A2CE-EB3F211C17E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E28A93-9FD0-4915-A2CE-EB3F211C17E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E28A93-9FD0-4915-A2CE-EB3F211C17E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E28A93-9FD0-4915-A2CE-EB3F211C17E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D99C752E-BDE0-44B7-9B62-F987053EC4A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99C752E-BDE0-44B7-9B62-F987053EC4A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99C752E-BDE0-44B7-9B62-F987053EC4A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99C752E-BDE0-44B7-9B62-F987053EC4A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A745AECB-C235-413C-8D52-5AA8667F41CE}
+	EndGlobalSection
+EndGlobal
